@@ -1,6 +1,6 @@
 ### Portfele kryptowalut
 
-Skopiuj i zapłać!
+Skopiuj i zapłać Antkowi!
 
 ```markdown
 ETH: `0x81DC41Bf767818ca67d3FdA5E15E3Ec9cdb420aF`
